@@ -1,0 +1,20 @@
+body {
+    background-color: lightgrey;
+}
+h1 {
+    font-size: 60px;
+    color: red;
+}
+h2 {
+    color: green;
+}
+ul {
+    display: block;
+}
+img {
+    width: 250px;
+    padding: 10px;
+}
+.badge {
+    margin-right: 10px;
+}
